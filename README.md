@@ -1,3 +1,3 @@
 # SKDNet
  
-The source code and dataset will be publicly released upon acceptance
+The full source code will be publicly released upon acceptance
